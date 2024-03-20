@@ -1,19 +1,21 @@
-1. "video1.mp4"
-2. "video2.mp4"
-3. "video3.mp4"
-4. "video4.mp4"
-5. "video5.mp4"
-6. "video6.mp4"
-7. "video7.mp4"
-8. "video8.mp4"
-9. "video9.mp4"
-10. "video10.mp4"
+1. "视频1.mp4"
+2. "视频2.mp4"
+3. "视频3.mp4"
+4. "视频4.mp4"
+5. "视频5.mp4"
+6. "视频6.mp4"
+7. "视频7.mp4"
+8. "视频8.mp4"
+9. "视频9.mp4"
+10. "视频10.mp4"
+
+{"bcUtE": 43, "shMxD": 70, "NexYc": 76, "pbzmb": 69, "ADNke": 44, "ZkKVg": 26, "phbIO": 46, "CKzQf": 80, "JujfE": 83, "XlQGT": 91}
 
 
  驱动器 D 中的卷是 Data
  卷的序列号是 7C79-D415
 
- D:\VIM\VIMPRICTICE 的目录
+ D:VIMVIMPRICTICE 的目录
 
 2024/03/18  09:07    <DIR>          .
 2024/03/14  13:51    <DIR>          ..
