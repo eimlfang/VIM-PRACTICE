@@ -1,0 +1,24 @@
+# 19
+
+Typing in Insert mode extends the line, but in Replace mode
+the line length doesn't change.
+
+# 22
+
+def fib(n):
+        a, b = 0, 1
+        while a < n:
+            print a,
+            a, b = b, a+b
+fib(42)
+
+<a href="#">One</a>
+<a href="#">Two</a>
+<a href="#">Three</a>
+
+# 24
+
+Chapter       |   Page
+Normal mode   |   15
+Insert mode   |   31
+Visual mode   |   44
